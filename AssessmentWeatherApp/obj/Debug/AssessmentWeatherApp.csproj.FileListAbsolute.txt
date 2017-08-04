@@ -1,0 +1,197 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.AssessmentWeatherApp.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.AssessmentWeatherApp-Signed.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\AssessmentWeatherApp.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\AssessmentWeatherApp.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\bin\AssessmentWeatherApp.AssessmentWeatherApp.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\values\strings.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\icon.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\R.cs.flag
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\uploadflags.txt
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\RestSharp.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\RestSharp.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\sunny.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\flurries.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\chancerain.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\sleet.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\chancesnow.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\chancetstorms.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\cloudy.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\fog.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\haze.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\mostcloudy.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\partcloudy.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\rain.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\snow.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\tstorms.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\unknown.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\bgnight.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\hot.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\cold.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\wind.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\mainnight.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\mainduskdawn.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\bgday.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\bgduskdawn.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\mainday.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\moreinfoday.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\moreinfoduskdawn.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\moreinfonight.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nclear.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nmostcloudy.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\npartcloudy.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nrain.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nsnow.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\ntstorms.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\AssessmentWeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\loading.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nodata.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\credits.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\creditsday.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\creditsduskdawn.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\creditsnight.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\creditsnight.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\AssessmentWeatherApp.dll.mdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AA Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\AssessmentWeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\AssessmentWeatherApp.dll
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\AssessmentWeatherApp.pdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.dll
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.pdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.AssessmentWeatherApp.apk
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.AssessmentWeatherApp-Signed.apk
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\RestSharp.dll
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\RestSharp.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\bin\AssessmentWeatherApp.AssessmentWeatherApp.apk
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\moreinfoday.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\mainnight.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\mainduskdawn.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\moreinfoduskdawn.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\moreinfonight.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\creditsday.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\creditsduskdawn.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\creditsnight.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\mainday.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\values\strings.xml
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\icon.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\sunny.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\flurries.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\chancerain.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\sleet.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\chancesnow.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\chancetstorms.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\cloudy.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\fog.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\haze.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\mostcloudy.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\partcloudy.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\rain.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\snow.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\tstorms.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\unknown.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\bgnight.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\cold.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\hot.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\wind.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\bgduskdawn.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\bgday.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nclear.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nmostcloudy.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\npartcloudy.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nrain.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nsnow.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\ntstorms.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\loading.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nodata.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\credits.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\creditsnight.png
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\R.cs.flag
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\uploadflags.txt
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\mscorlib.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\System.Core.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\System.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\System.Xml.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\AssessmentWeatherApp.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Alex\Documents\Software Engineering Course\Alex SED Assessments\Assessment 6\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\AssessmentWeatherApp.dll.mdb
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.dll
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.pdb
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.AssessmentWeatherApp.apk
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.AssessmentWeatherApp-Signed.apk
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\RestSharp.dll
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\RestSharp.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\AssessmentWeatherApp.dll
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\AssessmentWeatherApp.pdb
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\bin\AssessmentWeatherApp.AssessmentWeatherApp.apk
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\moreinfoday.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\mainnight.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\mainduskdawn.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\moreinfoduskdawn.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\moreinfonight.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\creditsday.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\creditsduskdawn.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\creditsnight.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\layout\mainday.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\values\strings.xml
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\icon.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\sunny.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\flurries.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\chancerain.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\sleet.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\chancesnow.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\chancetstorms.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\cloudy.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\fog.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\haze.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\mostcloudy.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\partcloudy.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\rain.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\snow.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\tstorms.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\unknown.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\bgnight.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\cold.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\hot.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\wind.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\bgduskdawn.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\bgday.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nclear.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nmostcloudy.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\npartcloudy.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nrain.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nsnow.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\ntstorms.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\loading.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\nodata.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\credits.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\res\drawable\creditsnight.png
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\R.cs.flag
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\uploadflags.txt
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\AssessmentWeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\bin\Debug\AssessmentWeatherApp.dll.mdb
+C:\Users\Alex\Documents\Software Development\Android Weather App\AssessmentWeatherApp\AssessmentWeatherApp\obj\Debug\android\assets\AssessmentWeatherApp.dll.mdb
